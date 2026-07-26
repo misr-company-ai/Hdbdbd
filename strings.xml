@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intelligent Analysis</string>
+    <string name="welcome_title">Intelligent Analysis</string>
+    <string name="welcome_subtitle">Precision insights powered by advanced analytical frameworks.</string>
+    <string name="system_ready">System Ready</string>
+    <string name="get_started">Get Started</string>
+    <string name="secure_env">Secure Analytical Environment</string>
+    <string name="version">v4.0.2 • ANALYTICAL ENGINE</string>
+
+    <string name="home_title">Intelligent Analysis</string>
+    <string name="analyze_hint">أدخل النص للتحليل...</string>
+    <string name="analyze_button">تحليل البيانات</string>
+    <string name="analyzing">جاري المعالجة...</string>
+    <string name="analysis_done">اكتمل التحليل</string>
+    <string name="mood_positive">إيجابي ومتفائل</string>
+    <string name="mood_analysis">تحليل الحالة الشعورية</string>
+    <string name="keywords">الكلمات المفتاحية</string>
+    <string name="stats_total">إجمالي التكرار</string>
+    <string name="stats_days">الأيام</string>
+    <string name="stats_similarity">نسبة التشابه</string>
+    <string name="prediction_body">بناءً على نمط البيانات، من المتوقع زيادة التفاعل بنسبة 15% في الأسبوع القادم.</string>
+    <string name="engine_label">محرك التحليل الذكي</string>
+    <string name="engine_version">مدعوم بالذكاء الاصطناعي الإصدار 4.0</string>
+
+    <string name="history_title">سجل التحليلات</string>
+    <string name="search_hint">بحث في السجل...</string>
+    <string name="filter">تصفية</string>
+
+    <string name="settings_title">إعدادات</string>
+    <string name="word_management">إدارة الكلمات</string>
+    <string name="add_word">إضافة كلمة جديدة</string>
+    <string name="analysis_tuning">ضبط التحليل</string>
+    <string name="analysis_level">مستوى التحليل</string>
+    <string name="level_simple">بسيط</string>
+    <string name="level_medium">متوسط</string>
+    <string name="level_advanced">متقدم</string>
+    <string name="predictions">تفعيل التوقعات</string>
+    <string name="predictions_desc">استخدام الذكاء الاصطناعي للتنبؤ بالنتائج المستقبلية بناءً على البيانات الحالية.</string>
+    <string name="smart_alerts">التنبيهات الذكية</string>
+    <string name="smart_alerts_desc">تلقي إشعارات فورية عند اكتشاف أنماط غير عادية في البيانات المحللة.</string>
+    <string name="display">العرض والمظهر</string>
+    <string name="theme">الوضع العام</string>
+    <string name="font_size">حجم الخط</string>
+    <string name="small">صغير</string>
+    <string name="medium">متوسط</string>
+    <string name="large">كبير</string>
+    <string name="data_management">البيانات</string>
+    <string name="export_data">تصدير كافة البيانات</string>
+    <string name="clear_data">مسح كافة البيانات</string>
+    <string name="app_version">الإصدار 2.4.0 • مدعوم بالذكاء الاصطناعي</string>
+
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_history">سجل</string>
+    <string name="nav_settings">إعدادات</string>
+
+    <string name="menu">القائمة</string>
+    <string name="notifications">الإشعارات</string>
+</resources>
